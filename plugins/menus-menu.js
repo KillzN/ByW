@@ -34,8 +34,9 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `*┏━━━━━↝🥷🏼↜━━━━━┓*
-*┃👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿: BELEN*
-*┃📲 wa.me/51993731827*
+*┃👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿/a: BELEN y WILLIAM*
+*┃📲 Belen: wa.me/51993731827*
+*┃📲 William: wa.me/51982177177*
 *┗━━━━━⇝⚔️⇜━━━━━┛*
 
  *┏━⚙️𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑⚙️━┓*
